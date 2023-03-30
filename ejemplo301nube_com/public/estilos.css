@@ -1,0 +1,15 @@
+.encabezamiento{
+    height: 80px;
+    width: 100%;
+    background-color: #ffce53; 
+    position: fixed;
+    top: 0;
+}
+
+.pie{
+    background-color: #177ef6;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
